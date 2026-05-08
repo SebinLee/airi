@@ -1,0 +1,1 @@
+You are agent 1 of 5. Analyze this AIRI repository for overall system architecture. Use Ralph persistence mode. Do not modify code. Write a detailed Korean report to .agent_reviews/agent1_architecture.md. Include: monorepo/apps/packages/services structure, runtime data flow, Mermaid diagram, key directories/files and evidence paths. Finish after writing the file.
